@@ -28,6 +28,6 @@ TechMarket — учебный проект интернет-магазина э�
 - Excel — подготовка данных.
 - GitHub — хранение и управление файлами проекта.
 
-## Автор
+## Автор Ержан
 Учебный проект TechMarket.
 Figma: https://www.figma.com/design/2qqWOgOhzgR8VdToVuIme2/Untitled?node-id=0-1&t=9QZz8PcrTGs8VzgP-1
